@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.dd9db5a2.css",
-    "main.js": "/react-gh-pages/static/js/main.32296e1a.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.dd9db5a2.css.map": "/react-gh-pages/static/css/main.dd9db5a2.css.map",
-    "main.32296e1a.js.map": "/react-gh-pages/static/js/main.32296e1a.js.map"
+    "main.css": "/Tenzies/static/css/main.dd9db5a2.css",
+    "main.js": "/Tenzies/static/js/main.32296e1a.js",
+    "index.html": "/Tenzies/index.html",
+    "main.dd9db5a2.css.map": "/Tenzies/static/css/main.dd9db5a2.css.map",
+    "main.32296e1a.js.map": "/Tenzies/static/js/main.32296e1a.js.map"
   },
   "entrypoints": [
     "static/css/main.dd9db5a2.css",
