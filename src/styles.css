@@ -8,6 +8,12 @@ body {
   padding: 20px;
 }
 
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 main {
   background: #F5F5F5;
   height: 400px;
